@@ -1,3 +1,3 @@
 # hello-world
 
-Hi, My name is Idan Haviv and i like to program
+Hi, My name is Idan Haviv and i like to programming
